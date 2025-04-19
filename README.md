@@ -1,0 +1,1 @@
+It's my first practis projrct with odin.
